@@ -1,0 +1,11 @@
+{
+    "name": "gw123/proxy",
+    "description": "多进程稳定的代理服务,可以代理http https socket5",
+    "authors": [
+        {
+            "name": "gw123",
+            "email": "963353840@qq.com"
+        }
+    ],
+    "require": {}
+}
